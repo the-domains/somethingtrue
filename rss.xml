@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[somethingtrue]]></title>
+        <description><![CDATA[somethingtrue]]></description>
+        <link>https://thegrid.ai/somethingtrue/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 17:17:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/somethingtrue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://67.media.tumblr.com/ac6e3e9b1cb2971bf6f866b3cb597ba2/tumblr_nkn6scgt8q1qzwmsso1_1280.jpg">]]></description>
+            <link>https://thegrid.ai/somethingtrue/1d9baaa0-4bd7-4420-a483-af37f1576e1f/index.html</link>
+            <guid isPermaLink="false">1d9baaa0-4bd7-4420-a483-af37f1576e1f</guid>
+            <pubDate>Wed, 11 May 2016 17:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“Either you repeat the same conventional doctrines everybody is saying, or else you say something true, and it will sound like it's from Neptune.” ― Noam Chomsky</p>]]></description>
+            <link>https://thegrid.ai/somethingtrue/either-you-repeat-the-same-conventional-doctrines-everybody/index.html</link>
+            <guid isPermaLink="false">afd1e1ba-f292-4481-8ec1-a34ee854a346</guid>
+            <pubDate>Wed, 11 May 2016 17:09:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
